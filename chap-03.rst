@@ -362,8 +362,8 @@ Dans le code écrit, ESLINT signale deux erreurs :
    option que nous choisissons ici . La ligne **[6]** est alors générée
    au début du fichier ;
 
-   1. .. rubric:: script [bases-02]
-         :name: script-bases-02
+script [bases-02]
+-----------------
 
 Le script **[bases-02]** montre l’utilisation des mots clés **[let]** et
 **[const]** :
@@ -588,8 +588,8 @@ Les types de données en Javascript :
 -  ligne 11 (code) : une variable peut être de type **[fonction]**
    (ligne 7 des résultats) ;
 
-   1. .. rubric:: script [bases-08]
-         :name: script-bases-08
+script [bases-08]
+-----------------
 
 Ce script montre les changements de type possibles en Javascript.
 

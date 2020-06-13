@@ -68,8 +68,8 @@ principale est que l’objet est manipulé via un pointeur.
 -  lignes 13-18 du code : montrent que l’instruction **[obj2=obj1]** est
    une copie de référence d’objet et non de l’objet lui-même ;
 
-   1. .. rubric:: script [obj-02]
-         :name: script-obj-02
+script [obj-02]
+---------------
 
 Ce script montre que les propriétés d’un objet peuvent avoir pour valeur
 un objet. On a alors des objets multi-niveaux. On introduit également
@@ -137,8 +137,8 @@ chaîne de caractères.
    entourées de guillemets ainsi que les valeurs de type chaîne de
    caractères ;
 
-   1. .. rubric:: script [obj-03]
-         :name: script-obj-03
+script [obj-03]
+---------------
 
 Ce script introduit la notion de getter / setter d’une propriété d’un
 objet :
@@ -383,8 +383,8 @@ ne connaît pas a priori le nom de celles-ci.
 -  lignes 41-47 : ou bien on se contente de désactiver l’avertissement
    (ligne 43) ;
 
-   1. .. rubric:: script [obj-07]
-         :name: script-obj-07
+script [obj-07]
+---------------
 
 Le script [obj-07] montre la possibilité de déstructurer un objet :
 
@@ -520,8 +520,8 @@ Les résultats de l’exécution sont les suivants :
 -  ligne 2 : montre que l’objet pointé par [obj2] est une copie de
    l’objet pointé par [obj1] ;
 
-   1. .. rubric:: Conclusion
-         :name: conclusion
+Conclusion
+----------
 
 Les scripts de cette section ont montré que l’objet littéral de
 Javascript est proche de l’objet instance de classe des langages à

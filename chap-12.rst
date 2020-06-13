@@ -23,11 +23,11 @@ navigateurs. C’est cette bibliothèque que nous utiliserons au final.
 Nous allons présenter un même script écrit avec ces deux bibliothèques
 pour montrer que la démarche de codage avec elles est analogue.
 
-2. .. rubric:: Mise en place d’un environnement de travail
-      :name: mise-en-place-dun-environnement-de-travail
+Mise en place d’un environnement de travail
+-------------------------------------------
 
-   1. .. rubric:: Installation du serveur de calcul d’impôt
-         :name: installation-du-serveur-de-calcul-dimpôt
+Installation du serveur de calcul d’impôt
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Ultimement, nous allons écrire une application web avec l’architecture
 suivante :
@@ -602,8 +602,8 @@ Les résultats de l’exécution sont les suivants :
 -  lignes 41-43 : la réponse obtenue par la fonction asynchrone
    **[main]** ;
 
-   1. .. rubric:: script [fetch-02]
-         :name: script-fetch-02
+script [fetch-02]
+-----------------
 
 Le script suivant reprend le script **[fetch-01]** en le débarrassant de
 tous les détails inutiles :
@@ -1536,8 +1536,8 @@ Les résultats de l’exécution sont les suivants :
    fait qu’on n’a pas renvoyé le cookie de session envoyé en réponse à
    la 1ère requête **[init-session]** ;
 
-   1. .. rubric:: script [axios-04]
-         :name: script-axios-04
+script [axios-04]
+-----------------
 
 Le script **[axios-04]** amène deux améliorations au script
 **[axios-03]** :

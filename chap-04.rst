@@ -45,8 +45,8 @@ considérés comme des objets.
 -  les lignes 4 et 5 des résultats montrent que ces deux pointeurs
    pointent sur le même tableau ;
 
-   1. .. rubric:: script [tab-02]
-         :name: script-tab-02
+script [tab-02]
+---------------
 
 Ce script montre que le tableau Javascript est différent des tableaux
 des langages compilés.
@@ -218,8 +218,8 @@ De ce script, on notera que :
 -  que cet objet a des méthodes **[forEach, pop, push, shift,
    unshift]** ;
 
-   1. .. rubric:: script [tab-04]
-         :name: script-tab-04
+script [tab-04]
+---------------
 
 Ce script présente d’autres méthodes des objets tableau.
 

@@ -40,8 +40,8 @@ navigateur. **[node.js]** a lui également un mode d’exécution par
 -  le script n’est terminé que lorsque tous les événements émis par
    celui-ci ont été traités ;
 
-   1. .. rubric:: script [async-01]
-         :name: script-async-01
+script [async-01]
+-----------------
 
 Le script suivant montre le comportement d’un script comportant une
 action asynchrone.
@@ -195,8 +195,8 @@ asynchrones dans un environnement **[node.js]**. En effet, la fonction
    l’événement. Cette fonction reçoit en paramètre, la donnée que la
    tâche asynchrone a associée à l’événement émis ;
 
-   1. .. rubric:: script [async-02]
-         :name: script-async-02
+script [async-02]
+-----------------
 
 Dans ce script, la fonction asynchrone **[setTimeout]** va émettre des
 événements pour communiquer des données aux codes qui se seront abonnés
@@ -356,8 +356,8 @@ C’est ce que montrent les résultats obtenus :
 -  ligne 8 : fin du script global avec une durée totale de 1,627
    seconde ;
 
-   1. .. rubric:: script [async-03]
-         :name: script-async-03
+script [async-03]
+-----------------
 
 Le script suivant montre un autre aspect de la boucle événementielle de
 **[node.js]** :
@@ -819,8 +819,8 @@ Le script **[async-04]** montre cette mécanique :
 -  lignes 9-11 : le même mécanisme se déroule lorsque **[promise2]**
    passe de l’état **[pending]** à **[resolved]** ;
 
-   1. .. rubric:: script [async-05]
-         :name: script-async-05
+script [async-05]
+-----------------
 
 Revenons au code du constructeur d’un objet **[Promise]** :
 
@@ -1061,8 +1061,8 @@ L’exécution du code donne les résultats suivants :
 -  ligne 9 : la méthode **[finally]** de **[Promise.all]** est
    exécutée ;
 
-   1. .. rubric:: script [async-06]
-         :name: script-async-06
+script [async-06]
+-----------------
 
 Ce nouveau script montre comment l’utilisation conjointe des mots clés
 **[async / await]** permet d’avoir un code **asynchrone** ressemblant à

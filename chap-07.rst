@@ -273,8 +273,8 @@ résultats :
    -  t\ **[input]** : la chaîne entière dans laquelle on a cherché le
       modèle ;
 
-   1. .. rubric:: script [regexp-02]
-         :name: script-regexp-02
+script [regexp-02]
+------------------
 
 Parfois on ne souhaite pas récupérer des éléments de la chaîne testée
 mais seulement savoir si elle correspond au modèle :

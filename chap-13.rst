@@ -289,8 +289,8 @@ Les résultats de l’exécution sont les suivants :
 -  ligne 2 : Javascript reconnaît bien que la variable **[enseignant]**
    est de type **[Enseignant]** ;
 
-   1. .. rubric:: script [class-03]
-         :name: script-class-03
+script [class-03]
+-----------------
 
 Le script **[class-03]** montre qu’une classe fille peut redéfinir
 propriétés et méthodes de sa classe parent. Ici, nous redéfinissons la
