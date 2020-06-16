@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = "Introduction au langage ECMASCRIPT 6 par l'exemple"
-copyright = '2020, Serge Tahé'
+copyright = '2020, Serge Tahé, Licence Creative Commons Attribution – Pas d’Utilisation Commerciale – Partage dans les Mêmes Conditions 3.0 non transposé.'
 author = 'Serge Tahé'
 
 # The full version, including alpha/beta/rc tags
