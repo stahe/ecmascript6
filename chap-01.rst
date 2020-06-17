@@ -1,7 +1,5 @@
-Introduction au langage ECMASCRIPT 6
-====================================
-
-Ce document fait partie d’une série de quatre articles :
+Présentation du cours
+=====================
 
 Ce document fait partie d’une série de quatre articles :
 
@@ -153,7 +151,7 @@ faut à la fois lire son code, ses commentaires et ses résultats
 d'exécution.
 
 Les exemples du document sont disponibles
-\|\ `ici <https://tahe.developpez.com/tutoriels-cours/ecmascript6/documents/ecmascript6.rar>`__\ **\ \|**.
+\|\ `ici <http://sergetahe.com/cours-tutoriels-de-programmation/wp-content/uploads/documents/php7-ecmascript6-vuejs-nuxtjs/ecmascript6.rar>`__\ **\ \|**.
 
 L’application serveur PHP 7 peut être testée
 \|\ `ici <https://sergetahe.com/apps/impot/serveur-php7/>`__\ **\ \|**.

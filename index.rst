@@ -6,10 +6,9 @@
 .. meta::
    :description lang=fr: Introduction à ECMASCRIPT 6 par l'exemple : bases, tableaux, objets, chaînes, expressions régulières, fonctions asynchrones, fonction HTTP, classes
    :google-site-verification: rEk3Ag5TVRTZ85C2Wwg6iYpLz8UWMgd07V6mLkq6ee4
-   <meta name="google-site-verification" content="rEk3Ag5TVRTZ85C2Wwg6iYpLz8UWMgd07V6mLkq6ee4" />
 
 INTRODUCTION AU LANGAGE ECMASCRIPT6 PAR L'EXEMPLE
-----------------------------------------------
+-------------------------------------------------
 
 Auteur
 ------
@@ -24,9 +23,9 @@ Licence
 Téléchargements
 ---------------
 
-\ `Téléchargement du PDF du cours <https://tahe.developpez.com/tutoriels-cours/ecmascript6/documents/ecmascript6.pdf>`_\
+\ `Téléchargement du PDF du cours <http://sergetahe.com/cours-tutoriels-de-programmation/wp-content/uploads/documents/php7-ecmascript6-vuejs-nuxtjs/ecmascript6.pdf>`_\
 
-\ `Téléchargement des exemples du cours (rar) <https://tahe.developpez.com/tutoriels-cours/ecmascript6/documents/ecmascript6.rar>`_\
+\ `Téléchargement des exemples du cours (rar) <http://sergetahe.com/cours-tutoriels-de-programmation/wp-content/uploads/documents/php7-ecmascript6-vuejs-nuxtjs/ecmascript6.rar>`_\
 
 
 .. toctree::
